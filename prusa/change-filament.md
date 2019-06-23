@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 # Change the filament
-1. Home the hotend by going to the **Control** tab, then click the ![Home icon]({{ site.baseurl }}/images/octoprint-homeicon) under Z
+1. Home the hotend by going to the **Control** tab, then click the ![Home icon]({{ site.baseurl }}/images/octoprint-homeicon.png) under Z
 2. Centre the hotend by clicking **Centre Hotend** under the **Control** tab
 3. Heat the hotend to a temperature hot enough to remove the old filament, and to insert the new filament
 4. Unload the old filament:
