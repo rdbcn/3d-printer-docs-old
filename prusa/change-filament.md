@@ -1,3 +1,7 @@
+---
+parent: Prusa
+---
+
 # Change the filament
 1. Home the hotend
 2. Centre the hotend
