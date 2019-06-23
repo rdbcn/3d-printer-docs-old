@@ -24,8 +24,8 @@ This section will take you through the complete process of downloading an object
 9. Open OctoPrint
 10. Find the gcode file in the **Files** window
 
-    ![OctoPrint files]]({{ site.baseurl }}/images/octoprint-files.png)
-    
+    ![OctoPrint files]({{ site.baseurl }}/images/octoprint-files.png)
+
     {% include info.html content="The gcode file name is based on the STL file name." %}
 11. Ensure that the bed of the printer is clear and ready for printing.
 12. Ensure that the coorect type of filament and a sufficient ammount to complete the print is loaded.
