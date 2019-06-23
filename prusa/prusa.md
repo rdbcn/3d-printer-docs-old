@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pursa
+title: Prusa
 has_children: true
 permalink: /prusa/
 nav_order: 2
