@@ -2,7 +2,7 @@
 layout: default
 title: Step-by-step Guide
 parent: Prusa
-nav_order: 3
+nav_order: 2
 ---
 
 # Step-by-step 3D printing
