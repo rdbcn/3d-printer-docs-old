@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pursa
+has_children: true
+permalink: /docs/prusa
+---
 # Prusa
 
 ## Step-by-step 3D printing
