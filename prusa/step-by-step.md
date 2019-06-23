@@ -19,7 +19,7 @@ This section will take you through the complete process of downloading an object
     For PLA: Prusa PLA 1.75mm
 
     ![Slic3r Print Settings]({{ site.baseurl }}/images/silc3r-printsettings.png)
-7. Optionally enable a brim or supports. Refer to relevant sections:
+7. Optionally enable a brim or supports. *Refer to relevant sections.*
 8. Click send to printer
 9. Open OctoPrint
 10. Find the gcode file in the **Files** window
