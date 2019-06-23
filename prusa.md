@@ -11,6 +11,7 @@ This section will take you through the complete process of downloading an object
 7. Click send to printer
 8. Open OctoPrint
 9. Find the gcode file in the Files window
+{% include note.html content="The gcode file name is based on the STL file name." %}
 10. Ensure that the bed of the printer is clear and ready for printing.
 11. Ensure that the coorect type of filament and a sufficient ammount to complete the print is loaded.
 12. Click Print
