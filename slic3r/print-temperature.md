@@ -2,7 +2,7 @@
 layout: default
 title: Change Print Temperatures
 parent: Slic3r
-nav_order: 4
+nav_order: 5
 ---
 
 # Change Print Temperatures
