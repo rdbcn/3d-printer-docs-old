@@ -1,5 +1,6 @@
 ---
 parent: Prusa
+nav_order: 2
 ---
 
 # Change the filament
