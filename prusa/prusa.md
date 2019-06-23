@@ -2,7 +2,7 @@
 layout: default
 title: Pursa
 has_children: true
-permalink: prusa/
+permalink: /prusa/
 ---
 # Prusa
 
