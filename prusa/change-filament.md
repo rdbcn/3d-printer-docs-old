@@ -2,7 +2,7 @@
 layout: default
 title: Change the filament
 parent: Prusa
-nav_order: 2
+nav_order: 3
 ---
 
 # Change the filament
