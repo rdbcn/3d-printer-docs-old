@@ -21,9 +21,9 @@ nav_order: 3
     1. **Using OctoPrint**
         1. Under the **Control** tab, enter the length in mm to extrude.
             {% include tip.html content="100mm-120mm is usually sufficient" %}
-        2. **Click extrude**
+        2. Click **extrude**
             {% include tip.html content="If the colour is not clear, keep extruding by small amounts until the colour is clear" %}
-    2. Using the printer firmware:
+    2. **Using the printer firmware**:
         1. Click the wheel
         2. Select Load Filament
         3. Follow the prompts to ensure that the colour is clear
